@@ -5,11 +5,12 @@
 - 📫 How to reach me? You can drop me an email at kevinqtb@gmail.com to tell me your thoughts or anything that you are happy to share!
 <details>
   <summary>📑My Projects on GitHub</summary>
-  [Household Finance Dashboard](https://github.com/Kevin-qt/Household-Finance-Dashboard) <br>
-  [Drug Classification](https://github.com/Kevin-qt/DrugABC-Classification) <br>
-  [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/Kevin-qt/SpaceX-Falcon-9-First-Stage-Landing-Prediction) <br>
-  [Scratch Game: Shooting Range](https://github.com/Kevin-qt/Scratch-Mini-Project-Shooting-Range) <br>
+  Household Finance Dashboard: https://github.com/Kevin-qt/Household-Finance-Dashboard <br>
+  Drug Classification: https://github.com/Kevin-qt/DrugABC-Classification <br>
+  SpaceX Falcon 9 First Stage Landing Prediction: https://github.com/Kevin-qt/SpaceX-Falcon-9-First-Stage-Landing-Prediction <br>
+  Scratch Game: Shooting Range: https://github.com/Kevin-qt/Scratch-Mini-Project-Shooting-Range <br>
 </details>
+
 
 <!---
 Kevin-qt/Kevin-qt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
