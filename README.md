@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin Chow.
+- 👋 Hi, I’m Kevin Chow
 - 👀 I’m a curious data advocate previously worked in the financial industry
 - 🌱 I’m actively exploring the technologies in machine learning and data science
 - 💞️ I’m looking to collaborate on different interesting projects
