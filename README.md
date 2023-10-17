@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin Chow
-- 👀 I’m a curious data advocate previously worked in the financial industry
+- 👀 I’m a curious data enthusiast previously worked in the financial industry
 - 🌱 I’m actively exploring the technologies in machine learning and data science
 - 💞️ I’m looking to collaborate on different interesting projects
 - 📫 How to reach me? You can drop me an email at kevinqtb@gmail.com to tell me your thoughts or anything that you are happy to share!
